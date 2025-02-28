@@ -1,0 +1,21 @@
+li {
+  color: black;
+}
+
+.home-page {
+  height: 100vh;
+}
+
+.home-page1 {
+  margin-top: 100px;
+  margin-left: 120px;
+  height: 1000px;
+}
+
+@media (max-width: 575px) {
+  .home-page1 {
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 1000px;
+  }
+}

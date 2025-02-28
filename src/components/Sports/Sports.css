@@ -1,0 +1,8 @@
+.no-data {
+  margin-left: 380px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 500px;
+}
